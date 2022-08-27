@@ -1,6 +1,10 @@
 # AIDreamPainter
 借助百度飞桨的文心大模型实现，可以将一个梦境(故事)画出来。
 
+# Requirement
+1.PyQt5
+2.requests
+
 # 使用说明
 1.使用前请检查自己的网络代理是否已经关闭。
 2.运行main.py即可。
